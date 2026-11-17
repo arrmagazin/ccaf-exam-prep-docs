@@ -1,0 +1,11 @@
+{
+  "id": "ccaf-exam",
+  "name": "CCAF Exam",
+  "description": "Claude Certified Architect Foundations exam",
+  "prodUrl": "https://ccaf-exam.web.app/",
+  "symbol": "🏅",
+  "type": "app",
+  "status": "done",
+  "domain": "edu",
+  "repoUrl": "https://github.com/arrmagazin/ccaf-exam-prep-docs"
+}
